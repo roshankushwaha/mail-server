@@ -1,0 +1,14 @@
+{
+    "partdekho": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "user": "partdekho@gmail.com",
+        "pass": "hqsbppqqqpgibhfv"
+    },
+    "brevo_1": {
+        "host": "smtp-relay.brevo.com",
+        "port": 587,
+        "user": "service@pkszone.com",
+        "pass": "xkeysib-abc123"
+    }
+}
