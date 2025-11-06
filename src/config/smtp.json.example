@@ -1,0 +1,8 @@
+{
+  "your_service_id": {
+    "host": "smtp.example.com",
+    "port": 587,
+    "user": "user@example.com",
+    "pass": "your_password"
+  }
+}
